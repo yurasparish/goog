@@ -1,7 +1,7 @@
 /*������� ������ ��� ch07_eg01.html*/
 body {
   color: #000000;
-  background-color: #e72626;
+  background-color: #26e790;
   font-family: arial, verdana, sans-serif;
 }
 h1 {
@@ -11,13 +11,13 @@ p {
   font-size: 12pt;
 }
 table {
-  background-color: #efefef;
+  background-color: #26e790;
   border-style: solid;
   border-width: 1px;
   border-color: #999999;
 }
 th {
-  background-color: #cccccc;
+  background-color: #26e790;
   font-weight: bold;
   adding: 5px;
 }
